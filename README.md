@@ -1,1 +1,6 @@
-Branch criada para adicionar uma receita de bolo de chocolate ao repositório do Módulo 1 de Elaine Goncalves do Programa Bolsa Futuro Digital
+## Receita de Bolo de Chocolate
+- 2 xícaras de farinha
+- 3 ovos
+- 1 xícara de açúcar
+- 1 xícara de chocolate em pó
+- 1 xícara de leite
